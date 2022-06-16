@@ -9,9 +9,9 @@
 
       // create a comment
       const comment = context.issue({
-          body: body.includes('Thanks')
-             ? 'You are Welcome!'
-             : 'Thanks!'
+          body:
+              'Thanks! \r\n' +
+            ' -Come from a smart robot. ^_^'
       });
       // publish it
       return context.github.issues.createComment(comment); 

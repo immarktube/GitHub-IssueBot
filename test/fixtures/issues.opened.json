@@ -3,13 +3,13 @@
   "issue": {
     "number": 1,
     "user": {
-      "login": "hiimbex"
+      "login": "immarktube"
     }
   },
   "repository": {
-    "name": "testing-things",
+    "name": "learnSchedule",
     "owner": {
-      "login": "hiimbex"
+      "login": "immarktube"
     }
   }
 }

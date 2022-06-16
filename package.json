@@ -1,13 +1,13 @@
 {
-  "name": "my-first-github-app",
+  "name": "MyIssueBot",
   "version": "1.0.0",
   "private": true,
   "description": "A Probot app",
-  "author": "Mayank Goyal <heromayank2@gmail.com>",
+  "author": "Mark J Feng <immarktube@gmail.com>",
   "license": "ISC",
-  "repository": "https://github.com/heromayank2/POGO.git",
-  "homepage": "https://github.com/heromayank2/POGO",
-  "bugs": "https://github.com/heromayank2/POGO/issues",
+  "repository": "https://github.com/immarktube/learnSchedule.git",
+  "homepage": "https://github.com/immarktube/learnSchedule",
+  "bugs": "https://github.com/immarktube/learnSchedule/issues",
   "keywords": [
     "probot",
     "github",
